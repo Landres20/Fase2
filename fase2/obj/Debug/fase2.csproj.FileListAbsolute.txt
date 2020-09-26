@@ -1,0 +1,12 @@
+C:\Users\Andres Lopez\source\repos\ProyectoFase2\fase2\bin\Debug\prueba.mdf
+C:\Users\Andres Lopez\source\repos\ProyectoFase2\fase2\bin\Debug\prueba_log.ldf
+C:\Users\Andres Lopez\source\repos\ProyectoFase2\fase2\bin\Debug\fase2.exe.config
+C:\Users\Andres Lopez\source\repos\ProyectoFase2\fase2\bin\Debug\fase2.exe
+C:\Users\Andres Lopez\source\repos\ProyectoFase2\fase2\bin\Debug\fase2.pdb
+C:\Users\Andres Lopez\source\repos\ProyectoFase2\fase2\obj\Debug\fase2.csprojAssemblyReference.cache
+C:\Users\Andres Lopez\source\repos\ProyectoFase2\fase2\obj\Debug\fase2.Form1.resources
+C:\Users\Andres Lopez\source\repos\ProyectoFase2\fase2\obj\Debug\fase2.Properties.Resources.resources
+C:\Users\Andres Lopez\source\repos\ProyectoFase2\fase2\obj\Debug\fase2.csproj.GenerateResource.cache
+C:\Users\Andres Lopez\source\repos\ProyectoFase2\fase2\obj\Debug\fase2.csproj.CoreCompileInputs.cache
+C:\Users\Andres Lopez\source\repos\ProyectoFase2\fase2\obj\Debug\fase2.exe
+C:\Users\Andres Lopez\source\repos\ProyectoFase2\fase2\obj\Debug\fase2.pdb
